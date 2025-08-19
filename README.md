@@ -3,6 +3,11 @@
 
 **Smart Docs** is an intelligent document automation system designed to streamline document creation, management, and retrieval. It empowers admins to create templates and staff to generate documents dynamically using smart forms and AI-assisted content generation.
 
+## 📥 Download Project
+The full project is too large to be stored directly in the repository.  
+👉 [Download the project here (v1.0 Release)](https://github.com/shardul778/Apsit-SmartDoc/releases/download/v1.0/my-project.zip)
+
+
 ---
 
 ## 🚀 Features
